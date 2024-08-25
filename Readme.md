@@ -8,11 +8,11 @@
 
 ### Aplicação desenvolvida com:
 
-|Tecnologias                              |     |                               |
-|---------------------------------------|------------------|---------------------|
-|  ✔ HTML                   |  |
-|  ✔ CSS   |  |
-|  ✔ JavaScript   |  |
+|Tecnologias                              | 
+|---------------------------------------|
+|  ✔ HTML                   |  
+|  ✔ CSS   |  
+|  ✔ JavaScript   |  
 
 ### Objetivo da aplicação
 - Converter valor da moeda para reais(BRL) baseado na
